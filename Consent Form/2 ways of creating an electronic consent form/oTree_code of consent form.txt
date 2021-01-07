@@ -1,0 +1,61 @@
+<P style="font-size:160%;" style="text-align:left;"><strong>Welcome! Please read the following information first.</strong></P>
+
+
+<div style="height:480px;width:840px;border:1px solid #ccc;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
+<center><b>Consent to Participate in Research</b></center>
+<br/>
+<b>TITLE: “Volunteer Dilemma Experiment”</b>
+<br/>    
+You are asked to participate in a study conducted by the Virtual Behavioral Lab (VBLab) at Duke Kunshan University. You were selected as a potential participant in this study because you are over 18 years old, registered in the participant pool of VBLab, and signed up in the online recruiting system. Participation in this study is entirely voluntary. Your decision whether or not to participate will not adversely affect your relationship with Duke Kunshan University. Please read the information below before deciding whether or not to participate.
+<br/>
+<b>PURPOSE OF STUDY</b>
+<br/>
+This study is designed to investigate people’s decision on whether make a small sacrifice that benefits everybody, or instead wait in hope of benefiting from someone else's sacrifice.
+The results of this study will help us find experiment evidence for therories in classical economics and game theroy.
+<br/>
+<b>ELIGIBILITY</b>
+<br/>
+<span style="background-color: yellow;">First, you can only participate if you are over the age of 18. You must provide a national ID or any other type of official identification as a proof.</span>
+Second, this experiment involves one short question and interaction with othe participants. Each participant may find a free time and take several minutes to participant in the experiment. <span style="background-color: yellow;">Therefore, you can only participate if you can read in English and have a stable Internet.</span> If you are eligible and once you choose to participate, the experiment will be described in detail to you so you understand what you will be asked to do. 
+<br/>
+<b>COMPENSATION AND PAYMENT</b>
+<br/>  
+You will be paid 20RMB for completing all parts of that session, regardless of your choices in the experiment. You will also make additional earnings in the experimental tasks, depending on your choices and luck. The expected combined payment in both sessions together is around 30RMB.
+You will be paid your earnings through Alipay or WeChat within two weeks of the study’s conclusion. If you do not receive your compensation within two weeks of the completion of this study, please contact dku-vblab@dukekunshan.edu.cn.
+<br/>
+<b>POTENTIAL RISKS AND DISCOMFORTS</b>
+<br/>  
+No risks or discomforts are expected. The stress level during the experiment will not be very different from that in problem solving tasks in the typical educational settings. 
+<br/>
+<b>ANTICIPATED BENEFITS TO SUBJECTS</b>
+<br/>  
+You will not benefit directly from this research, but your participation is expected to help us better understand how people make economic decisions. This is a very important scientific contribution. 
+<br/>
+<b>PRIVACY AND CONFIDENTIALITY</b>
+<br/> 
+Your privacy will be protected. Your identifying information will only be used by the VBLab staff to process your payments. It will be removed from the data when they are transferred to the researchers. No information about you provided by you during this research will be disclosed to others without your written permission. Your personal information will be handled in accordance with the terms of the Data Management Policies and IRB policies at Duke Kunshan University.
+Your individual privacy will be maintained in all publications or presentations resulting from this study. No one other than the researchers will have access to any records of this experiment, and none of the records will identify you using any personal information. The data will be stored in electronic form, password protected. 
+<br/>
+<b>PARTICIPATION AND WITHDRAWAL</b>
+<br/> 
+Please understand that participation is completely voluntary. Your decision whether or not to participate will in no way affect your current or future relationship with Duke Kunshan University, or the faculty, students, or staff of the University. You have the right to withdraw from the research at any time without penalty. You also have the right to refuse to answer any question(s) for any reason, without penalty.
+<br/>
+<b>RIGHTS OF RESEARCH SUBJECTS</b>
+<br/> 
+You may withdraw your consent at any time and discontinue participation without penalty. If you have any questions or would like additional information about this research, please contact Luyao Zhang, at <a href="luyao.zhang@dukekunshan.edu.cn">luyao.zhang@dukekunshan.edu.cn</a> You are not waiving any legal claims, rights or remedies because of your participation in this research study. This study has been ethically approved by the Ethical Approval Committee at Duke Kunshan University. If you have questions regarding your rights as a research subject, you may contact the Ethical Approval Committee: <a href="dku-irb@dukekunshan.edu.cn">dku-irb@dukekunshan.edu.cn</a>. 
+</div>
+
+<br/>
+
+<p>Please confirm you have read and understood the conditions above and give your consent for participating the experiment.</p>
+
+{% formfields %}
+
+<br/>
+<br/>
+
+<center><p>
+    <!-- .otree-btn-next is the CSS/jQuery selector for this button -->
+
+    <button class="otree-btn-next btn btn-primary"><font size="5"><strong>Proceed</strong></font></button>
+</p></center>
